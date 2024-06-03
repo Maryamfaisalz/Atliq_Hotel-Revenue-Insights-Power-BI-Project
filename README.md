@@ -36,7 +36,7 @@ This metric represents the actual usage of rooms, including both paid and compli
 
 **Insights from the Dashboard:**
 1) Mumbai generates the highest revenue of (661 M).
-2) May month generated the highest revenue.
+2) May month generated the highest revenue of (582 M).
 3) Atliq Exotica, Mumbai with a rating of 4.32 out of 5, showcases its excellence in hospitality and guest satisfaction in turn generating the highest revenue of (117 M).
 4) Elite type rooms has the most booking.
 5) Logtrip booking platform has the highest realization percentage, indicates that bookings made through Logtrip are more successful in terms of achieving closer to the maximum potential revenue.

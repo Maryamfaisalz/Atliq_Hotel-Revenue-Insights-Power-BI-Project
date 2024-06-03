@@ -15,20 +15,28 @@ Their revenue management team had decided to hire a 3rd party service provider t
 **Key Terms:**
 
 
-The following terminologies:
+The following key terminologies:
 
 1) **RevPAR (Revenue Per Available Room):**  
 A performance metric in the hotel industry that measures revenue generated per available room, regardless of whether the rooms are occupied.
 
-2) **DSRN (Day of Stay Room Nights):**   
-This term typically refers to the number of room nights sold on a specific day. It is a detailed metric used to analyze daily performance.
+2) **Daily Sellable Room Night (DSRN):**
+This metric indicates the total inventory of rooms that a hotel can potentially sell in a day. It excludes rooms that are out of order    or under maintenance.
+
+3) **Average Daily Rate (ADR):**
+ADR is used to measure the average price at which rooms are sold on a daily basis. It is a key performance indicator for assessing the pricing strategy and revenue management of a hotel.
+
+4) **Daily Booked Room Night (DBRN):**
+This metric shows the demand for rooms on any given day. It includes reservations made in advance as well as walk-ins.
+
+5) **Daily Utilized Room Nights (DURN):**
+This metric represents the actual usage of rooms, including both paid and complimentary stays. It is crucial for calculating the hotel's occupancy rate and assessing the effectiveness of its booking and marketing strategies.
 
 
-3) **ADR (Average Daily Rate):** 
-A metric used to calculate the average rental income per paid occupied room in a given time period.
 
-4) **DBRN (Day Before Room Nights):**
-This term refers to the number of room nights sold for the previous day. It is used for comparing and analyzing performance against the prior day.
-
-5) **DURN (Day of Use Room Nights):**
-Similar to DSRN, this term typically refers to the number of room nights utilized on a specific day, focusing on actual usage rather than just bookings.
+**Insights from the Dashboard:**
+1) Mumbai generates the highest revenue of (661 M).
+2) May month generated the highest revenue.
+3) Atliq Exotica, Mumbai with a rating of 4.32 out of 5, showcases its excellence in hospitality and guest satisfaction in turn generating the highest revenue of (117 M).
+4) Elite type rooms has the most booking.
+5) Logtrip booking platform has the highest realization percentage, indicates that bookings made through Logtrip are more successful in terms of achieving closer to the maximum potential revenue.

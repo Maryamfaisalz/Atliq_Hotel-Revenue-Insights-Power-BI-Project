@@ -17,7 +17,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 The following key terminologies:
 
-1) **RevPAR (Revenue Per Available Room):**  
+1) **Revenue Per Available Room (RevPAR):**  
 A performance metric in the hotel industry that measures revenue generated per available room, regardless of whether the rooms are occupied.
 
 2) **Daily Sellable Room Night (DSRN):**
@@ -31,6 +31,10 @@ This metric shows the demand for rooms on any given day. It includes reservation
 
 5) **Daily Utilized Room Nights (DURN):**
 This metric represents the actual usage of rooms, including both paid and complimentary stays. It is crucial for calculating the hotel's occupancy rate and assessing the effectiveness of its booking and marketing strategies.
+
+**Atliq Hotel Dashboard:**
+
+![image](https://github.com/Maryamfaisalz/Atliq_Hotel-Revenue-Insights-Power-BI-Project/assets/79410940/aba20408-2c95-4abf-9a85-d37a44436bc3)
 
 
 
